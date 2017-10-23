@@ -19,5 +19,5 @@ The _observer_ pattern involves two components:
 
 There are two common ways to implement this pattern in Java:
  * [Implementation 1](../../tree/observer-impl1)
- * [Implementation 2](https://github.com/csc301-fall-2015/observer-and-adapter-example/tree/observer-impl2)
+ * [Implementation 2](../../tree/observer-impl2)
  
