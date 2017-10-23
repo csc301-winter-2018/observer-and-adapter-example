@@ -18,6 +18,6 @@ The _observer_ pattern involves two components:
  * Observable - Notifies its observer(s) whenever something changes.
 
 There are two common ways to implement this pattern in Java:
- * [Implementation 1](https://github.com/csc301-fall-2015/observer-and-adapter-example/tree/observer-impl1)
+ * [Implementation 1](../observer-and-adapter-example/tree/observer-impl1)
  * [Implementation 2](https://github.com/csc301-fall-2015/observer-and-adapter-example/tree/observer-impl2)
  
