@@ -7,7 +7,7 @@ We have a mismatch:
  *  Our [Stock](src/csc301/observerExample/Stock.java) can only be observed by `StockObserver`s.
 
 The scenario described above is very common.
-In fact, many times you run into such a scenario where both components (`Application` and `Stock`, in the exaple above) are libraries that you cannot change.
+In fact, many times you run into such a scenario where both components (`Application` and `Stock`, in the example above) are libraries that you cannot change.
 
 How to handle the mismatch? Build an adapter.
 
